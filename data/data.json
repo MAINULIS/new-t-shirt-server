@@ -1,0 +1,42 @@
+[
+    {
+      "shirts": [
+            {
+              "id": 1,
+              "name": "Plain White Tee",
+              "description": "Classic plain white t-shirt",
+              "picture": "https://i.pinimg.com/originals/9f/3d/13/9f3d13912d3cf78e4c87975bcebc1fee.jpg",
+              "price": 15.99
+            },
+            {
+              "id": 2,
+              "name": "Graphic Print Shirt",
+              "description": "T-shirt with a vibrant graphic print",
+              "picture":"https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dCUyMHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+              "price": 24.99
+            },
+            {
+              "id": 3,
+              "name": "Striped Polo Tee",
+              "description": "Polo t-shirt with stylish stripes",
+              "picture":  "https://render.fineartamerica.com/images/rendered/default/t-shirt/23/30/images/artworkimages/medium/1/coffee-coding-syntax-aadil-farooq-transparent.png?targetx=0&targety=0&imagewidth=430&imageheight=516&modelwidth=430&modelheight=575",
+              "price": 19.99
+            },
+            {
+              "id": 4,
+              "name": "Vintage Logo Tee",
+              "description": "T-shirt featuring a retro logo design",
+              "picture":"https://m.media-amazon.com/images/I/61GMJ+3ekAS._AC_UL320_.jpg",
+              "price": 29.99
+            },
+            {
+              "id": 5,
+              "name": "Pocket Detail Tee",
+              "description": "T-shirt with a small pocket detail",
+              "picture":"https://www.billbazar.com.bd/public/uploads/all/8hgD0lQGODVXbB5sokhvwr7mUNjBx7pEHusuyGZj.webp",
+              "price": 18.99
+            }
+          ]
+    }
+]
+  
